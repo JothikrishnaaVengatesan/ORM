@@ -2,11 +2,11 @@
 ## Date: 
 15/03/2024
 ## AIM
-To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+
 
 ## DESIGN STEPS
 
@@ -47,9 +47,7 @@ admin.site.register(Railway,RailwayAdmin)
 ## OUTPUT
 ![admin](<Screenshot 2024-03-15 094749.png>)
 ![alt text](<Screenshot 2024-03-15 095152.png>)
-![alt text](<Screenshot 2024-03-15 095206.png>)
-![alt text](<Screenshot 2024-03-15 095224.png>)
-![alt text](<Screenshot 2024-03-15 095253.png>)
+
 
 
 
