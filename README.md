@@ -5,7 +5,7 @@
 To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
- ![alt text](ERdia.png)
+ ![1](ERdia.png)
 
 ## DESIGN STEPS
 
